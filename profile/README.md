@@ -22,7 +22,7 @@
 - **한승일** [wonone0106](https://github.com/wonone0106)
 - **배용빈** [byb-8](https://github.com/byb-8)
 
-## 📱 Flutter App Developer
+## 📱 Cross Platform Developer
 
 - **이주언** [aiden30015](https://github.com/aiden30015)
 
